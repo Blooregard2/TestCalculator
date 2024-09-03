@@ -1,0 +1,15 @@
+D:\Sitios\TestCalculator\TestCalculator.Domain\bin\Debug\net8.0\TestCalculator.Domain.deps.json
+D:\Sitios\TestCalculator\TestCalculator.Domain\bin\Debug\net8.0\TestCalculator.Domain.dll
+D:\Sitios\TestCalculator\TestCalculator.Domain\bin\Debug\net8.0\TestCalculator.Domain.pdb
+D:\Sitios\TestCalculator\TestCalculator.Domain\bin\Debug\net8.0\TestCalculator.Application.dll
+D:\Sitios\TestCalculator\TestCalculator.Domain\bin\Debug\net8.0\TestCalculator.Application.pdb
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\TestCalculator.Domain.csproj.AssemblyReference.cache
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\TestCalculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\TestCalculator.Domain.AssemblyInfoInputs.cache
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\TestCalculator.Domain.AssemblyInfo.cs
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\TestCalculator.Domain.csproj.CoreCompileInputs.cache
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\TestCalc.4FF77B5C.Up2Date
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\TestCalculator.Domain.dll
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\refint\TestCalculator.Domain.dll
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\TestCalculator.Domain.pdb
+D:\Sitios\TestCalculator\TestCalculator.Domain\obj\Debug\net8.0\ref\TestCalculator.Domain.dll

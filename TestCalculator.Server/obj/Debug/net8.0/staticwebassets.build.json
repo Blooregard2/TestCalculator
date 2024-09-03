@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ai7QdZLgChqDJaeAwumPDfHMIgvGaaQXhmRmvYqyZo0=",
+  "Source": "TestCalculator.Server",
+  "BasePath": "_content/TestCalculator.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

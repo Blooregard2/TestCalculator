@@ -1,0 +1,11 @@
+D:\Sitios\TestCalculator\TextCalculator.Application\bin\Debug\net8.0\TestCalculator.Application.deps.json
+D:\Sitios\TestCalculator\TextCalculator.Application\bin\Debug\net8.0\TestCalculator.Application.dll
+D:\Sitios\TestCalculator\TextCalculator.Application\bin\Debug\net8.0\TestCalculator.Application.pdb
+D:\Sitios\TestCalculator\TextCalculator.Application\obj\Debug\net8.0\TestCalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sitios\TestCalculator\TextCalculator.Application\obj\Debug\net8.0\TestCalculator.Application.AssemblyInfoInputs.cache
+D:\Sitios\TestCalculator\TextCalculator.Application\obj\Debug\net8.0\TestCalculator.Application.AssemblyInfo.cs
+D:\Sitios\TestCalculator\TextCalculator.Application\obj\Debug\net8.0\TestCalculator.Application.csproj.CoreCompileInputs.cache
+D:\Sitios\TestCalculator\TextCalculator.Application\obj\Debug\net8.0\TestCalculator.Application.dll
+D:\Sitios\TestCalculator\TextCalculator.Application\obj\Debug\net8.0\refint\TestCalculator.Application.dll
+D:\Sitios\TestCalculator\TextCalculator.Application\obj\Debug\net8.0\TestCalculator.Application.pdb
+D:\Sitios\TestCalculator\TextCalculator.Application\obj\Debug\net8.0\ref\TestCalculator.Application.dll
