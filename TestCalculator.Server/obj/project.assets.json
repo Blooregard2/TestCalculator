@@ -520,11 +520,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sitios\\CalculatorTest\\TestCalculator.Server\\TestCalculator.Server.csproj",
+      "projectUniqueName": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\TestCalculator.Server.csproj",
       "projectName": "TestCalculator.Server",
-      "projectPath": "D:\\Sitios\\CalculatorTest\\TestCalculator.Server\\TestCalculator.Server.csproj",
+      "projectPath": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\TestCalculator.Server.csproj",
       "packagesPath": "C:\\Users\\ivanr\\.nuget\\packages\\",
-      "outputPath": "D:\\Sitios\\CalculatorTest\\TestCalculator.Server\\obj\\",
+      "outputPath": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -546,8 +546,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Sitios\\CalculatorTest\\TextCalculator.Application\\TestCalculator.Application.csproj": {
-              "projectPath": "D:\\Sitios\\CalculatorTest\\TextCalculator.Application\\TestCalculator.Application.csproj"
+            "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\TestCalculator.Application.csproj": {
+              "projectPath": "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\TestCalculator.Application.csproj"
             }
           }
         }

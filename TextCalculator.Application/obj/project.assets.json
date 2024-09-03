@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sitios\\CalculatorTest\\TextCalculator.Application\\TestCalculator.Application.csproj",
+      "projectUniqueName": "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\TestCalculator.Application.csproj",
       "projectName": "TestCalculator.Application",
-      "projectPath": "D:\\Sitios\\CalculatorTest\\TextCalculator.Application\\TestCalculator.Application.csproj",
+      "projectPath": "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\TestCalculator.Application.csproj",
       "packagesPath": "C:\\Users\\ivanr\\.nuget\\packages\\",
-      "outputPath": "D:\\Sitios\\CalculatorTest\\TextCalculator.Application\\obj\\",
+      "outputPath": "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

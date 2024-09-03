@@ -64,7 +64,7 @@ namespace TextCalculator.Application.BusinessRules
 
             return new OperacionResponse
             {
-                Total = double.NaN, // Para factorización, no se devuelve un total, sino los factores
+                Total = 0, // Para factorización, no se devuelve un total, sino los factores
                 Mensaje = mensaje,
                 Factores = factores
             };
