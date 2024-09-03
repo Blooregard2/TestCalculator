@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TestCalculator.Domain")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TestCalculator.Application")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07db7927260fcdafe3fb716dd1bea975bcdd166b")]
-[assembly: System.Reflection.AssemblyProductAttribute("TestCalculator.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TestCalculator.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("TestCalculator.Application")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TestCalculator.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
