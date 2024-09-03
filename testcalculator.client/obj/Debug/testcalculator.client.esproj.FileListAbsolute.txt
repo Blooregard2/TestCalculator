@@ -1,0 +1,1 @@
+D:\Sitios\TestCalculator\testcalculator.client\obj\Debug\testcalculator.client.esproj.CoreCompileInputs.cache

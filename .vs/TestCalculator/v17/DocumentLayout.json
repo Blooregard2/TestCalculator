@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Sitios\\TestCalculator8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{53D11DA6-CD76-4423-AA65-6406740FA249}|TestCalculator.Server\\TestCalculator.Server.csproj|d:\\sitios\\testcalculator8\\testcalculator.server\\controllers\\operacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D11DA6-CD76-4423-AA65-6406740FA249}|TestCalculator.Server\\TestCalculator.Server.csproj|solutionrelative:testcalculator.server\\controllers\\operacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D11DA6-CD76-4423-AA65-6406740FA249}|TestCalculator.Server\\TestCalculator.Server.csproj|d:\\sitios\\testcalculator8\\testcalculator.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D11DA6-CD76-4423-AA65-6406740FA249}|TestCalculator.Server\\TestCalculator.Server.csproj|solutionrelative:testcalculator.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D11DA6-CD76-4423-AA65-6406740FA249}|TestCalculator.Server\\TestCalculator.Server.csproj|d:\\sitios\\testcalculator8\\testcalculator.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53D11DA6-CD76-4423-AA65-6406740FA249}|TestCalculator.Server\\TestCalculator.Server.csproj|solutionrelative:testcalculator.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D11DA6-CD76-4423-AA65-6406740FA249}|TestCalculator.Server\\TestCalculator.Server.csproj|d:\\sitios\\testcalculator8\\testcalculator.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53D11DA6-CD76-4423-AA65-6406740FA249}|TestCalculator.Server\\TestCalculator.Server.csproj|solutionrelative:testcalculator.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F4AEAB-E278-4E54-8FEE-05C8B28F439E}|TextCalculator.Application\\TestCalculator.Application.csproj|d:\\sitios\\testcalculator8\\textcalculator.application\\queries\\operacionesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F4AEAB-E278-4E54-8FEE-05C8B28F439E}|TextCalculator.Application\\TestCalculator.Application.csproj|solutionrelative:textcalculator.application\\queries\\operacionesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7F4AEAB-E278-4E54-8FEE-05C8B28F439E}|TextCalculator.Application\\TestCalculator.Application.csproj|d:\\sitios\\testcalculator8\\textcalculator.application\\bussinesrules\\operacionesrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7F4AEAB-E278-4E54-8FEE-05C8B28F439E}|TextCalculator.Application\\TestCalculator.Application.csproj|solutionrelative:textcalculator.application\\bussinesrules\\operacionesrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestCalculator.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestCalculator.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T09:45:42.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TestCalculator.Server\\appsettings.json",
+              "ToolTip": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\appsettings.json",
+              "RelativeToolTip": "TestCalculator.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T09:45:36.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TestCalculator.Server\\Program.cs",
+              "ToolTip": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\Program.cs",
+              "RelativeToolTip": "TestCalculator.Server\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwCAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:45:34.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperacionesQuery.cs",
+              "DocumentMoniker": "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\Queries\\OperacionesQuery.cs",
+              "RelativeDocumentMoniker": "TextCalculator.Application\\Queries\\OperacionesQuery.cs",
+              "ToolTip": "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\Queries\\OperacionesQuery.cs",
+              "RelativeToolTip": "TextCalculator.Application\\Queries\\OperacionesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:40:22.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OperacionController.cs",
+              "DocumentMoniker": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\Controllers\\OperacionController.cs",
+              "RelativeDocumentMoniker": "TestCalculator.Server\\Controllers\\OperacionController.cs",
+              "ToolTip": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\Controllers\\OperacionController.cs",
+              "RelativeToolTip": "TestCalculator.Server\\Controllers\\OperacionController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:37:34.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "OperacionesRules.cs",
               "DocumentMoniker": "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\BussinesRules\\OperacionesRules.cs",
               "RelativeDocumentMoniker": "TextCalculator.Application\\BussinesRules\\OperacionesRules.cs",
               "ToolTip": "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\BussinesRules\\OperacionesRules.cs",
               "RelativeToolTip": "TextCalculator.Application\\BussinesRules\\OperacionesRules.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAmwE8AAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T08:40:19.176Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;
 using TextCalculator.Application.Dtos;
@@ -8,6 +9,7 @@ namespace TextCalculator.Server.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [EnableCors("AllowAngular")] 
     public class OperacionController : ControllerBase
     {
         private readonly IOperacionesQuery _operacionesQuery;

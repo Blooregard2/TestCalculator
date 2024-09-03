@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "D:\\Sitios\\TestCalculator\\TestCalculator.Server\\..\\testcalculator.client",
+"WorkingDirectory": "D:\\Sitios\\TestCalculator8\\TestCalculator.Server\\..\\testcalculator.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
