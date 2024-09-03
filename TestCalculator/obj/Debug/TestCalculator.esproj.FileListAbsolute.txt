@@ -1,0 +1,2 @@
+D:\Sitios\TestCalculator\TestCalculator\obj\Debug\TestCalculator.esproj.CoreCompileInputs.cache
+D:\Sitios\TestCalculator8\TestCalculator\obj\Debug\TestCalculator.esproj.CoreCompileInputs.cache

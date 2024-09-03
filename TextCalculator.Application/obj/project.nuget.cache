@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "25sR1OmZr6bKZorIALHUAnbhxKb2Jrz+xXrdnVPjqBPSJimIFU4kS1lGeGWfiGQZBTjyP37b7Pl3zX9jv9gU+w==",
+  "dgSpecHash": "1V/vfgbekBf1KOpcnHfFrxbkqXfzy4ame7v0nVPi/2GMu8JomxZA8HTGMMZTOzhdiovs5TNV8h4uXBWAYnOjSA==",
   "success": true,
-  "projectFilePath": "D:\\Sitios\\CalculatorTest\\TextCalculator.Application\\TestCalculator.Application.csproj",
+  "projectFilePath": "D:\\Sitios\\TestCalculator8\\TextCalculator.Application\\TestCalculator.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

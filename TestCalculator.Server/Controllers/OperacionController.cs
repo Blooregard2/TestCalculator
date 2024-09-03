@@ -41,7 +41,7 @@ namespace TextCalculator.Server.Controllers
                   
                     return BadRequest(new { Mensaje = response.Mensaje });
                 }
-
+               
                 return Ok(response);
             }
             catch (DivideByZeroException ex)
